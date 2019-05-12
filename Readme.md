@@ -9,15 +9,15 @@ Code release for Transferable Adversarial Training: A General Approach to Adapti
 
 - python 2.7
 - PyTorch 0.4
-- tensorboard
-- tensorflow
+- Tensorflow >= 1.0
+- Tensorlayer >= 1.11
+- Tensorboard
 
 ## Usage
 
 - download datasets
 - extract feature representations
-- train
-- `python Visda.py`
+- train `python XXX.py`
 - monitor 
   `tensorboard --logdir .`
 
