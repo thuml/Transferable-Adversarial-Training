@@ -34,7 +34,7 @@ year = {2019}
 ```
 
 ## Reference codes
-**https://github.com/thuml/easydl(https://github.com/thuml/easydl)**
+**https://github.com/thuml/easydl**
 
 ## Contact
 - h-l17@mails.tsinghua.edu.cn
